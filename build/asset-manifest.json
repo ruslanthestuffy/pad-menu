@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7bcfc08b.chunk.css",
+    "main.js": "./static/js/main.ba56d8a4.chunk.js",
+    "main.js.map": "./static/js/main.ba56d8a4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.90a09101.js",
+    "runtime-main.js.map": "./static/js/runtime-main.90a09101.js.map",
+    "static/js/2.5284eb49.chunk.js": "./static/js/2.5284eb49.chunk.js",
+    "static/js/2.5284eb49.chunk.js.map": "./static/js/2.5284eb49.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.7bcfc08b.chunk.css.map": "./static/css/main.7bcfc08b.chunk.css.map",
+    "static/js/2.5284eb49.chunk.js.LICENSE.txt": "./static/js/2.5284eb49.chunk.js.LICENSE.txt",
+    "static/media/burger1.png": "./static/media/burger1.2e6a038f.png",
+    "static/media/carbonara.png": "./static/media/carbonara.40f47fec.png",
+    "static/media/cart.07d48919.svg": "./static/media/cart.07d48919.svg",
+    "static/media/chili.jpg": "./static/media/chili.17c072f6.jpg",
+    "static/media/close.87035e06.svg": "./static/media/close.87035e06.svg",
+    "static/media/gaspacho1.jpg": "./static/media/gaspacho1.6a9aa8b0.jpg",
+    "static/media/header.module.scss": "./static/media/logo.257c531f.png",
+    "static/media/minus.56885ae9.svg": "./static/media/minus.56885ae9.svg",
+    "static/media/petushara.jpg": "./static/media/petushara.dddfff9f.jpg",
+    "static/media/plus.6eb7026e.svg": "./static/media/plus.6eb7026e.svg",
+    "static/media/qr-code.effb0c10.svg": "./static/media/qr-code.effb0c10.svg",
+    "static/media/seadish.png": "./static/media/seadish.8a5f407b.png",
+    "static/media/soup1.png": "./static/media/soup1.ba170692.png",
+    "static/media/table.02881614.svg": "./static/media/table.02881614.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90a09101.js",
+    "static/js/2.5284eb49.chunk.js",
+    "static/css/main.7bcfc08b.chunk.css",
+    "static/js/main.ba56d8a4.chunk.js"
+  ]
+}
